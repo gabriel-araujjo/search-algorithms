@@ -1,3 +1,5 @@
+Versão mais recente encontrada no [github](https://github.com/gabriel-araujjo/search-algorithms)
+
 # Lista 1 - Algoritmos de busca #
 
 ## 1. Organização ##
