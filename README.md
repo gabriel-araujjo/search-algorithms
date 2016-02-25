@@ -9,7 +9,7 @@ Versão mais recente encontrada no [github](https://github.com/gabriel-araujjo/s
 3. `test` contem os códigos que foram usados para validar o funcionamento dos
     demais códigos
 
-Os arquivos `busca.h`, `busca.cc` e `busca_teste.cc` referem-se à questão 1
+Os arquivos [`busca.h`](https://github.com/gabriel-araujjo/search-algorithms/blob/master/src/busca.h), [`busca.cc`](https://github.com/gabriel-araujjo/search-algorithms/blob/master/include/busca.cc) e [`busca_teste.cc`](https://github.com/gabriel-araujjo/search-algorithms/blob/master/test/src/busca_teste.cc) referem-se à questão 1
 
 Os arquivos `busca_string.h`, `busca_string.cc` e `busca_string_teste.cc` 
 referem-se à questão 2
